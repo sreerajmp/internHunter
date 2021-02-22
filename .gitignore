@@ -1,7 +1,9 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+internHunter/__pycache__
 *.py[cod]
 *$py.class
+*.pyc
 
 # C extensions
 *.so
@@ -127,3 +129,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# html file
+intern-internships.html
